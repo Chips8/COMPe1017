@@ -1,0 +1,16 @@
+h1 {
+	color: LightSeaGreen;
+}
+p {
+	font-size: 18px;
+}
+/*
+Classes in CSS are preceded by a period.
+e.g. if you want to target the odd class,
+you precede odd with a period -> .odd
+*/
+
+.odd {
+	background-color: PaleTurquoise;
+	color:white;
+}
