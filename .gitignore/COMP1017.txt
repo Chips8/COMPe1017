@@ -1,0 +1,43 @@
+6 / 21 / 2018
+
+1. Cascade
+	- Remove all default values first
+	- Priority of up of page to down of page
+	- Up of page set everything to zero, and overwrite below
+
+2. Inheritance
+	- Getting something from the parent
+	- Like a disease, other's get effected.
+
+<html> // this will inherent everything
+	<body>
+		<main>
+			<p>
+
+3. Specificity
+	- The most specific you target a rule
+	- Example: p { color:red }
+	- vs Example: .class { color:blue }
+	- More specific = more precedent// priority
+	- Based on ELEMENT you SELECTED.
+
+4. Box Model
+	- Where all contents are built upon
+	- Every content has it's own box
+	- Everything with a tag is content?
+Width: Content+ Padding + Margin + Border
+
+Margin is not part of the content.*
+	- margin: 12px, 20px, 50px, 100px; }
+	- Top-> Right-> Bottom ->Left
+Border
+	- border: 3px solid blue; }
+	- Equals to 6px added to the width, 3px left, 3px right of border
+Padding
+	- padding: 24px 0px 0px 0px;
+	- Same as margin: Top --> Right --> Bottom --> Left
+Code checking on browser
+	- F12
+	- Ctrl + Shift + i
+https://www.gamasutra.com/
+	- For Gaming + Game job postings
