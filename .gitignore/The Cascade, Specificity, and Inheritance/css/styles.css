@@ -1,0 +1,45 @@
+footer 
+{
+	background-color: #333333;
+}
+footer,
+footer a 
+{
+	/* decendent */
+	color: white;
+}
+
+nav
+{
+	background-color: lightblue;
+}
+nav ul
+{
+	background-color: lightpink;
+}
+nav ul li 
+{
+	border-bottom: 1px solid #333333;
+}
+nav ul li a 
+{
+	color: #333333;
+	text-decoration: none;
+	/* no underlines on hyperlink*/
+}
+/* 
+Pseudo classes allow us to target elements in specific states, position, etc.
+In this case we are targeting <a> elements in the hover state 
+(i.e. when the mouse cursor is over them)
+*/
+nav ul li a:hover 
+{
+	color: blue;
+	font-weight: bold;
+	background-color: magenta;
+}
+
+ul.navigation{
+	list-style: none;
+	padding-left: 0;
+}

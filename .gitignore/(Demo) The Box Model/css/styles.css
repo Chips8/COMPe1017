@@ -1,0 +1,20 @@
+.margin-section{
+	background-color: wheat;
+	margin: 12px 30px 50px 100px;
+}
+.border-section{
+	background-color: goldenrod;
+	border: 3px solid blue;
+	border-bottom: 12px solid green;
+	/*Cascade for border-bottom*/
+}
+.padding-section {
+	background-color: pink;
+	padding: 24px 0px 0px 0px;
+}
+.width-section {
+	width: 300px;
+	margin: 24px;
+	padding: 24px;
+	border: 3px solid black;
+}
