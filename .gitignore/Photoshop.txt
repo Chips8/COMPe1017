@@ -1,0 +1,10 @@
+ctrl + select small image in layers
+ctrl + d to diselect all
+3 file formats 
+jpg - photos
+gif - logos / vector art
+png - alpha channel / transparency
+file/export/export as..
+cmyk is for prints
+sRGB is for screens
+There will be slight chance of color accuracy depending on selction
