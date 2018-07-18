@@ -1,0 +1,72 @@
+html{
+	/*
+	background-image:  url(../img/post1-icon.gif);
+	background-repeat: repeat-y; 
+	try no repeat;
+	try repeat-x;
+	*/
+}
+
+body {
+	background-color: white;
+}
+ 
+.container {
+	margin: 0 auto;
+	width: 960px;
+	font-size: 100%;
+	line-height: 1.5;
+	height: 2000px;
+	font-family: 'Lato', sans-serif;
+}
+h1,h2,h3{
+	color: #0b777b;
+}
+.page-header{
+	background-image: url(../img/header-transparent2.png);
+	/* use for wide pictures? */
+	background-attachment: fixed;
+
+	height:353px;
+	padding: 47px 0 0 50px;
+}
+.page-header h1 {
+	color: #30777c;
+	letter-spacing: 2px;
+
+	font-size: 72px;
+}
+.page-header p {
+	color: #6d9fa2;
+	font-family: arial, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	margin-left: 48px;
+	margin-top: -6px;
+}
+.blog-post{
+	margin-top: 70px;
+	text-align: center;
+}
+.blog-post h2{
+	font-size: 64px;
+}
+.blog-post p{
+	color: #7f8c8c;
+	font-size: 16pt;
+}
+.blog-post footer{
+	margin-top: 15px;
+}
+.blog-post footer img{
+	vertical-align: middle;
+}
+.blog-post footer span{
+	color: #0b777b;
+	margin: 0 20px;
+}
+.blog-post footer strong{
+	color: #094244;
+	font-weight: bold;
+}
