@@ -1,0 +1,15 @@
+tag within a tag
+<p> </p>
+to isolate things w/in a paragraph.
+so use <strong> </strong> in a paragraph.
+
+Example for different case:
+<span><strong>date</strong>: November 12, 2016</span>
+<span><strong>posted by</strong>: Stephanie</span>
+
+<em>	Renders as emphasized text
+<strong>	Defines important text
+<code>	Defines a piece of computer code
+<samp>	Defines sample output from a computer program
+<kbd>	Defines keyboard input
+<var>	Defines a variable
